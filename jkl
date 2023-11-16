@@ -1,0 +1,9 @@
+REFUEL_CONTRACTS = {
+    'optimism'      : '0x2076BDd52Af431ba0E5411b3dd9B5eeDa31BB9Eb',
+    'bsc'           : '0x5B209E7c81DEaad0ffb8b76b696dBb4633A318CD',
+    'arbitrum'      : '0x412aea168aDd34361aFEf6a2e3FC01928Fba1248',
+    'polygon'       : '0x2ef766b59e4603250265EcC468cF38a6a00b84b3',
+    'polygon_zkevm' : '0xBAf5C493a4c364cBD2CA83C355E75F0ff7042945',
+    # 'zksync'        : '' # temp unavailable,
+    'avalanche'     : '0x5B209E7c81DEaad0ffb8b76b696dBb4633A318CD',
+    'gnosis'        : '0x1fe2c567169d39CCc5299727FfAC96362b2Ab90E',
